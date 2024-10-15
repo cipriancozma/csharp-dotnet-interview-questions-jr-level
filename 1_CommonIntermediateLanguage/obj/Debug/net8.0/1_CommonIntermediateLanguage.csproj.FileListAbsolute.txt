@@ -1,0 +1,15 @@
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\bin\Debug\net8.0\1_CommonIntermediateLanguage.exe
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\bin\Debug\net8.0\1_CommonIntermediateLanguage.deps.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\bin\Debug\net8.0\1_CommonIntermediateLanguage.runtimeconfig.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\bin\Debug\net8.0\1_CommonIntermediateLanguage.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\bin\Debug\net8.0\1_CommonIntermediateLanguage.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.GeneratedMSBuildEditorConfig.editorconfig
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.AssemblyInfoInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.AssemblyInfo.cs
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.csproj.CoreCompileInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.sourcelink.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\refint\1_CommonIntermediateLanguage.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\1_CommonIntermediateLanguage.genruntimeconfig.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\1_CommonIntermediateLanguage\obj\Debug\net8.0\ref\1_CommonIntermediateLanguage.dll
