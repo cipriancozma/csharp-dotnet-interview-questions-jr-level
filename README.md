@@ -55,3 +55,20 @@ No, Anyone can create their implementation of the CIL. (e.g. Mono Runtime)
 
 ### 3. What is the difference between C# and .NET?
 
+C# is a programming language and .NET is a framework that supports applications written in C# as well as in other .NET compatible languages.
+
+- C# is a programming language. Nothing more. You can develop a C# compiler that will translate the .cs file into a binary code that can be run at any platform without using .NET. 
+- .NET is a framework that enables running of applications written in C# and other languages compatible with it. 
+
+So, what's the role of C#?
+
+It provides the execution environment called Common Language Runtime which is responsible for things like processing the Intermediate Language, managing the memory, providing error handling and more.
+
+It provides also a set of standard libraries (which can be found in the System namespace).
+
+#### 3.1. What is the difference between .NET and .NET Framework?
+
+.NET is a succesor of .NET Framework. .NET was originally named .NET Core and it was renamed to .NET since version 5.0
+
+----
+
