@@ -23,4 +23,35 @@ Some tools can decompile a .dll file and read the CIL code. One of those tools i
 
 Just-In-Time compiler is a feature of the Common Language Runtime (CLR) which translates the Common Intermediate Language code to binary code during the program execution.
 
+----
+
+### 2. What is the Common Language Runtime (CLR)?
+
+The Common Language Runtime is a runtime environment that manages the execution of the .NET applications. 
+
+The CLR stands between the actual operating system and the application. 
+
+The CLR is responsible for many operations essential for any .NET application to work:
+
+- JIT compilation -> the compilation of the Common Intermediate Language to the binary code.
+- Memory Management -> CLR allocates the memory needed for every object created within the application. CLR includes also the Garbage Collector which is responsible for releasing and defragmenting the memory.
+- Exception handling -> when the exception is thrown, the CLR makes sure the code execution is redirected to the proper catch clause.
+- Thread Management -> CLR manages the execution of the multi threaded applications
+- Type Safety -> part of the CLR is the Common Type System which defines the standard for all .NET compatible languages. 
+
+#### 2.1. What is the difference between CLR, CLI and CIL?
+
+Common Language Runtime is an implementation of the Common Language Infrastructure. CIL is Common Intermediate Language to which all .NET compatible languages get compiled.
+
+#### 2.2. What is the CTS?
+
+CTS is the Common Type System which is a standardized type system for all .NET compatible languages which makes them interoperable. (e.g. we can have a C# class derived from an F# class)
+
+#### 2.3. Is the CLR the only implementation of the CIL?
+
+No, Anyone can create their implementation of the CIL. (e.g. Mono Runtime)
+
+----
+
+### 3. What is the difference between C# and .NET?
 
