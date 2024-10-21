@@ -83,3 +83,21 @@ It provides also a set of standard libraries (which can be found in the System n
 
 The fundamental difference is that the a reference type variable holds a reference to the actual data, while the value type variable holds the actual data.
 
+Value Types are stored on the stack whereas reference types are stored on the heap (only the reference itself is stored on the stack)
+
+The value of the value type variable is cleaned out from the stack when the code execution leaves the scope this variable lived in. 
+
+For reference types it is not the case, the object addressed by the reference will be cleaned up by the Garbage Collector and the exact time of that is unknown.
+
+#### 4.1. What will happen if you pass an integer to a method and you increase it by one in the method's body? Will the variable you passed to the method be incremented?
+
+The number will be increased in the scope of the method's body, but the variable outside this method will stay unmodified.
+
+#### 4.2. Assuming you want the modification to the integer parameter to affect the variable that was passed to a method, how would you achieve that?
+
+By using ref parameter.
+
+----
+
+## 5. What is boxing and unboxing?
+

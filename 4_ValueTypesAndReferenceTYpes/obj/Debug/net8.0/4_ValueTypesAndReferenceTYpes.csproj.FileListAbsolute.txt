@@ -1,0 +1,15 @@
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\bin\Debug\net8.0\4_ValueTypesAndReferenceTYpes.exe
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\bin\Debug\net8.0\4_ValueTypesAndReferenceTYpes.deps.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\bin\Debug\net8.0\4_ValueTypesAndReferenceTYpes.runtimeconfig.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\bin\Debug\net8.0\4_ValueTypesAndReferenceTYpes.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\bin\Debug\net8.0\4_ValueTypesAndReferenceTYpes.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.AssemblyInfoInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.AssemblyInfo.cs
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.csproj.CoreCompileInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.sourcelink.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\refint\4_ValueTypesAndReferenceTYpes.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\4_ValueTypesAndReferenceTYpes.genruntimeconfig.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\4_ValueTypesAndReferenceTYpes\obj\Debug\net8.0\ref\4_ValueTypesAndReferenceTYpes.dll
