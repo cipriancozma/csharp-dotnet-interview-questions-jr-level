@@ -101,3 +101,79 @@ By using ref parameter.
 
 ## 5. What is boxing and unboxing?
 
+Boxing is the process of wrapping a value type into an instance of a type System.Object. Unboxing is the opposite, the process of converting the boxed value back to a value type.
+
+When the value is boxed, it is wrapped inside an instance of the System.Object class and stored on the heap.
+
+As we know, value types are stored on the stack while reference types are stored on the heap. Only the reference itself (an adress or pointer to the object stored on the heap) is stored on the stack. 
+
+```
+int number = 5;
+
+string word = "abc";
+```
+
+In this situation the following data is stored in the memory:
+
+On the stack - the value of number (5) as an integer is a value type and the reference to the word variable stored on the heap as string is a reference type
+
+On the heap - the value of the word variable ("abc")
+
+Boxing the value of the number variable:
+
+```
+int number = 5;
+
+object boxedNumber = number;
+```
+
+A new variable of type object is created. Object is a reference type, so its value is stored on the heap. Let's see the state of the stack and the heap now:
+
+On the stack:
+
+1. The value of number variable (5) as an integer is a value type
+2. The reference to the word variable stored on the heap
+3. The reference to the boxedNumber variable stored on the heap
+
+On the heap:
+
+1. The value of the word variable ("abc")
+2. The value of the boxedNumber variable (5)
+
+Boxing is done implicitly, on the other hand, the unboxing must be done using a cast.
+
+```
+int number = 5;
+object boxedNumber = number;
+int unboxedNumber = (int)boxedNumber;
+```
+
+Unboxing unwraps the original value from the object and assigns it to a value type variable.
+
+The unboxing requires the exact type match. The next example will throw an error because integer is not the same as short.
+
+```
+// this will throw
+// int unboxedShortNumber = (int)boxedShortNumber;
+
+short otherShortNumber = 3;
+
+// this will work fine -  no boxing or unboxing here 
+int otherShortNumberCastToInt = (int)otherShortNumber;
+
+```
+
+Boxing and unboxing come with a performance penalty. Boxing requires the creation of a new object and allocating memory on the heap for it. The unboxing requires a cast which is also computationally expensive.
+
+Boxing an Unboxing are necessary for providing an unified type system. 
+
+#### 5.1. What is the penalty for using boxing and unboxing?
+
+The main penalty is performance. Boxing requires a new object that must be created and allocating memory for it. The unboxing requires a cast which is also expensive from the performance point of view.
+
+#### 5.2. Is assigning a string to a variable of type object boxing?
+
+No, because string is not a value type. The point of boxing is to wrap a value type into an object (which is a reference type).
+
+## 6. What are the three main types of errors?
+
