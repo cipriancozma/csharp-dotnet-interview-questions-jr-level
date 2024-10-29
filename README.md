@@ -175,6 +175,8 @@ The main penalty is performance. Boxing requires a new object that must be creat
 
 No, because string is not a value type. The point of boxing is to wrap a value type into an object (which is a reference type).
 
+----
+
 ## 6. What are the three main types of errors?
 
 1. Compilation Errors - known as syntax errors, reported by the compiler
@@ -188,6 +190,8 @@ Both, runtime and logical errors.
 #### 6.2. What's the C# mechanism for handling runtime errors?
 
 Exceptions, used to handling runtime errors.
+
+----
 
 ## 7. How are exceptions handled in C#?
 
@@ -222,6 +226,8 @@ Using finally block.
 #### 7.3. What is the base type for all exceptions in C#?
 
 System.Exception
+
+----
 
 ## 8. What are the types of access modifiers in C#?
 
