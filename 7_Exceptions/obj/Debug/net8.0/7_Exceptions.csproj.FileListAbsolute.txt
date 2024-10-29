@@ -1,0 +1,15 @@
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\bin\Debug\net8.0\7_Exceptions.exe
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\bin\Debug\net8.0\7_Exceptions.deps.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\bin\Debug\net8.0\7_Exceptions.runtimeconfig.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\bin\Debug\net8.0\7_Exceptions.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\bin\Debug\net8.0\7_Exceptions.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.AssemblyInfoInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.AssemblyInfo.cs
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.csproj.CoreCompileInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.sourcelink.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\refint\7_Exceptions.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\7_Exceptions.genruntimeconfig.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\7_Exceptions\obj\Debug\net8.0\ref\7_Exceptions.dll

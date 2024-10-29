@@ -177,3 +177,51 @@ No, because string is not a value type. The point of boxing is to wrap a value t
 
 ## 6. What are the three main types of errors?
 
+1. Compilation Errors - known as syntax errors, reported by the compiler
+2. Runtime Errors - thrown during program execution
+3. Logical Errors - occuring when the program works without crashing but it does not produce a correct result
+
+#### 6.1. What type of errors do unit tests protect us from?
+
+Both, runtime and logical errors.
+
+#### 6.2. What's the C# mechanism for handling runtime errors?
+
+Exceptions, used to handling runtime errors.
+
+## 7. How are exceptions handled in C#?
+
+Exceptions are handled by try-catch-finally blocks. 
+
+Exceptional Situations:
+
+1. System errors, like running out of memory - OutOfMemoryException is thrown
+
+2. Numeric Errors, when trying to increment an int that has the maximum int value assigned, OverflowException is thrown
+
+3. Parsing Errors, trying to parse "hello" to an integer, FormatException is thrown
+
+4. Operation Errors, trying to remove the first element from an empty list,  ArgumentOutOfRangeException is thrown
+
+In C# every exception type derives from class Exception.
+
+<b>Note<b>:
+
+In case of multiple catch blocks, when the exception is thrown it will be caught by the first catch block that handles the matching exception type.
+
+Because of that, we should always write catch blocks from the most specific to the most generic. 
+
+#### 7.1. Is it possible to have multiple catch blocks after a try block?
+
+Yes. You can catch any number of exceptions. It is important to catch the more specific and then the more generic.
+
+#### 7.2. How to ensure some piece of code will be called, even if an exception was thrown?
+
+Using finally block.
+
+#### 7.3. What is the base type for all exceptions in C#?
+
+System.Exception
+
+## 8. What are the types of access modifiers in C#?
+

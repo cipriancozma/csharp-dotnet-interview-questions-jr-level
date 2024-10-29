@@ -1,0 +1,15 @@
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\bin\Debug\net8.0\6_ThreeMainTypesOfErrors.exe
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\bin\Debug\net8.0\6_ThreeMainTypesOfErrors.deps.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\bin\Debug\net8.0\6_ThreeMainTypesOfErrors.runtimeconfig.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\bin\Debug\net8.0\6_ThreeMainTypesOfErrors.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\bin\Debug\net8.0\6_ThreeMainTypesOfErrors.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.GeneratedMSBuildEditorConfig.editorconfig
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.AssemblyInfoInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.AssemblyInfo.cs
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.csproj.CoreCompileInputs.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.sourcelink.json
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\refint\6_ThreeMainTypesOfErrors.dll
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.pdb
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\6_ThreeMainTypesOfErrors.genruntimeconfig.cache
+G:\Apps\csharp-dotnet-interview-questions-jr-level\6_ThreeMainTypesOfErrors\obj\Debug\net8.0\ref\6_ThreeMainTypesOfErrors.dll
