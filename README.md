@@ -231,3 +231,25 @@ System.Exception
 
 ## 8. What are the types of access modifiers in C#?
 
+
+
+
+
+
+
+---
+
+## Optional
+
+#### The Stack
+
+It tracks method calls and it contains frames which hold parameters, return address and local variables for each method call.
+
+A stack frame is removed when returning from a method. All local variables go out of scope at this point.
+
+If you call too many methods, the stack will fill up completely and .NET throws a StackOverflow exception.
+
+#### The Heap
+
+The new keyword creates objects on the heap. When variables on the stack go out of scope, their coresponding objects on the heap are dereferenced, not destroyed.
+
