@@ -231,9 +231,12 @@ System.Exception
 
 ## 8. What are the types of access modifiers in C#?
 
-
-
-
+|  | Access Modifiers   |     |
+|   :---:   | :---: |  :---: |
+|  |  Public  |  The type or member can be used by any other type from any assembly  |
+|  |  Internal | The type or member can be used by any other type from the same assembly it is defined in |
+|  |  Protected Internal | Within the same assembly, it works as internal, so it can be used by all other types. Outside this assembly, it works as protected -  it can be used only by types inheriting from this class |
+|  |  Protected |  |
 
 
 
@@ -252,4 +255,6 @@ If you call too many methods, the stack will fill up completely and .NET throws 
 #### The Heap
 
 The new keyword creates objects on the heap. When variables on the stack go out of scope, their coresponding objects on the heap are dereferenced, not destroyed.
+
+#### The Garbage Collector
 
